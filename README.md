@@ -7,14 +7,14 @@ Halo, Saya Ravi Azzura Putra! 👋<br><br>Tentang Saya<br><br>Status: Masih Pemu
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravi.azzura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raviazzuraputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravi.azzura74@gmail.com) 
 
-<div>
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<div>
+</div>
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -23,21 +23,21 @@ Halo, Saya Ravi Azzura Putra! 👋<br><br>Tentang Saya<br><br>Status: Masih Pemu
 ![](https://nirzak-streak-stats.vercel.app/?user=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div>
+</div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<div>
+</div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=RaviAzzuraPutra&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
-<div>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RaviAzzuraPutra&icon=10&color=3)](https://visitcount.itsvg.in)
