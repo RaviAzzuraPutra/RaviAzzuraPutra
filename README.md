@@ -1,38 +1,32 @@
-# 💫 RAVI AZZURA PUTRA | ⛩️ ラヴィ  アズラ  プトラ:
-HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indonesia<br><br>💼 <b>Stack: JavaScript, Node.js, Express, PHP (Laravel), Golang</b> <br><br>Backend Developer focused on building production-grade APIs using Golang and Node.js. Hands-on experience designing clean architectures, enforcing data integrity at the API level, and shipping systems that support real operational workflows. Experienced in SQL/NoSQL databases, Docker, and integrating external and AI-based services via APIs. Trained through intensive backend programs including MSIB Backend Developer Bootcamp Batch 6 (Gamelab.id) and Sanbercode Golang Bootcamp, and holds a Junior Web Developer certification (BNSP). Excited to use my skills in the tech field and committed to continuous learning.
+<h1 align="center">Hi 👋, I'm Ravi Azzura Putra</h1>
+<h3 align="center">As a Backend Software Engineer specializing in Golang, I focus on architecting secure, scalable, and production-grade APIs. My professional experience centers on designing clean architectures and executing secure, measurable integrations with external services. I am passionate about building robust systems that enforce strict data integrity and support complex, real-world operational workflows. For me, software engineering is about more than just writing code; it is about delivering solutions that are maintainable, efficient, and secure by design. I am adaptable, collaborative by nature, and deeply committed to continuous technical growth in the backend ecosystem.</h3>
 
-## 🌐 Socials:
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=staynight-75d8880106a0&label=Profile%20views&color=0e75b6&style=flat" alt="staynight-75d8880106a0" /> </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravi.azzura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raviazzuraputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravi.azzura74@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://ravi-azzura-putra-portofolio.vercel.app/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=staynight-75d8880106a0" alt="staynight-75d8880106a0" /></a> </p>
 
-</div>
+- 🔭 I’m currently working on Pt Azuba Indonesia Raya **Secure Tracking & Access Platform**
 
-# 💻 Tech Stack:
-<div align="center">
+- 🌱 I’m currently learning **Microservices, Keycloak, Kafka, Elasticsearch**
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+- 👨‍💻 All of my projects are available at [https://ravi-azzura-putra-portofolio.vercel.app](https://ravi-azzura-putra-portofolio.vercel.app)
 
-</div>
+- 📫 How to reach me **ravi.azzura74@gmail.com**
 
-# 📊 GitHub Stats:
-<div align="center">
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dJAAj8qiu2I5RV4nMfOVPxAVGRbqp98l/view?usp=sharing](https://drive.google.com/file/d/1dJAAj8qiu2I5RV4nMfOVPxAVGRbqp98l/view?usp=sharing)
 
-![](https://github-readme-stats.vercel.app/api?username=StayNight-75d8880106a0&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=StayNight-75d8880106a0&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StayNight-75d8880106a0&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ravi-azzura-putra-92059227b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-azzura-putra-92059227b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cu3vbmrk37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cu3vbmrk37" height="30" width="40" /></a>
+</p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=staynight-75d8880106a0&show_icons=true&locale=en&layout=compact" alt="staynight-75d8880106a0" /></p>
 
-### 💭 Random Dev Quote
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staynight-75d8880106a0&show_icons=true&locale=en" alt="staynight-75d8880106a0" /></p>
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staynight-75d8880106a0&" alt="staynight-75d8880106a0" /></p>
 
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=StayNight-75d8880106a0&icon=10&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
